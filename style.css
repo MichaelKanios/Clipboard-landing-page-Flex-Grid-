@@ -39,6 +39,7 @@ font-size: 12px;
 header{
   background-image:url("images/bg-header-desktop.png");
   background-repeat: no-repeat;
+  background-size: 1680px;
   display: flex;
   flex-direction:column;
   padding-top: 50px;
